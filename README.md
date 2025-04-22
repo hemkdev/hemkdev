@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm hemk</h1>
 <h3 align="center">sistem development student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemkdev&label=Profile%20views&color=0e75b6&style=flat" alt="hemkdev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemkdev" alt="hemkdev" /></a> </p>
 
 - 🌱 I’m currently learning **Javascripts, web development, C**
