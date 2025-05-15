@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm hemk <img src="https://komarev.com/ghpvc/?username=hemkdev&label=Profile%20views&color=0e75b6&style=flat" alt="hemkdev" /> </h1>
 
-![](https://github-readme-stats.vercel.app/api?username=hemkdev&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hemkdev&theme=shadow_red&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemkdev&theme=shadow_red&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 # 💻 Tools:
