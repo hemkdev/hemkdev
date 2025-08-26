@@ -5,11 +5,16 @@
 - 🧠 I’m fascinated about **AIs**, so I'm studying **AI agents, machine learning and workflows**
 - 💬 I speak **native portuguese and fluent english(C1)**
 
-<br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,html,css,js,php,bootstrap,arduino,mysql,git,figma"/>
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hemkdev&show_icons=true&theme=transparent">
 </p>
