@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Lucas Hemkemeier</h1>
 
-- 🔭 I’m currently working on **C, Web development and Databases**
-- 🌱 I’m currently learning **Python and related frameworks**
+- 🔭 I’m currently working on **Python, C, Web development and Databases**
+- 🌱 I’m currently learning **Python frameworks and OOP**
 - 🧠 I’m fascinated about **AIs**, so I'm studying about **AI agents, machine learning and workflows**
 - 💬 I speak **native portuguese and fluent english(C1)**
 
