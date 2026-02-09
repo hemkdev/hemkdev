@@ -13,11 +13,3 @@
   </a>
 </p>
 
-<br>
-
-<a href="https://github.com/hemkdev/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hemkdev&show_icons=true&theme=transparent">
-</a>
-<a href="https://github.com/hemkdev/convoychat">
-  <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemkdev&layout=donut&theme=transparent"> 
-</a>
