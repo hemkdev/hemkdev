@@ -1,15 +1,21 @@
-<h1>Hi 👋, I'm Lucas Hemkemeier</h1>
+#  Lucas Hemkemeier
 
-- 🔭 I’m currently working on **Python frameworks, C, Web development and Databases**
-- 🌱 I’m currently learning **Business analytics and Java/Spring boot**
-- 🧠 I’m fascinated about **AIs**, so I'm studying about **AI agents, machine learning and workflows**
-- 💬 I speak **native portuguese and fluent english(C1)**
+`Fullstack Developer` `Software Engineering Student`
 
+<p>
+Software developer focused on writing clean, reusable and maintainable code. 
+Currently pursuing a Software Engineering degree and building my full-stack journey.
+I'm learning Java to build robust and reliable systems for enterprise environments. I'm also diving to React, focused on creating interfaces that connect users to products in a meaningful way.
+I'm always seeking new knowledge to grow and enjoy crafting practical solutions for everyday challenges.
+I value collaboration and knowledge sharing — learning with others is part of how I evolve.
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,python,html,css,js,php,bootstrap,arduino,mysql,git,figma"/>
+    <img src="https://skillicons.dev/icons?i=java,c,js,react,python,html,css,tailwind,php,bootstrap,arduino,mysql,git,figma"/>
   </a>
 </p>
 
