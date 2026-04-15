@@ -1,5 +1,3 @@
-#  Lucas Hemkemeier
-
 `Fullstack Developer` `Software Engineering Student`
 
 <p>
@@ -10,9 +8,6 @@ I'm always seeking new knowledge to grow and enjoy crafting practical solutions 
 I value collaboration and knowledge sharing, learning with others is part of how I evolve.
 </p>
 
----
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,c,js,react,python,html,css,tailwind,php,arduino,mysql,git,figma"/>
