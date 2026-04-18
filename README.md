@@ -1,11 +1,11 @@
 `Fullstack Developer` `Software Engineering Student`
 
 <p>
-Software developer focused on writing clean, reusable and maintainable code. 
-Currently pursuing a Software Engineering degree and building my journey.
-I'm learning Java to build robust and reliable systems for enterprise environments. I'm also diving to React, focused on creating interfaces that connect users to products in a meaningful way.
-I'm always seeking new knowledge to grow and enjoy crafting practical solutions for everyday challenges.
-I value collaboration and knowledge sharing, learning with others is part of how I evolve.
+Software developer with a back-end soul, focused on writing clean, reusable and maintainable code.
+Currently pursuing a Software Engineering degree.
+I'm learning Java to build robust and reliable systems for enterprise environments. I'm also diving into React, focused on creating interfaces that connect users to products in a meaningful way.
+I enjoy crafting practical solutions for everyday challenges and believe good code is built through collaboration and shared knowledge.
+Outside of code, I'm drawn to philosophy, music, fashion and visual culture, things that reflect who I am in ways I couldn't articulate otherwise.
 </p>
 
 <p align="left">
