@@ -10,7 +10,7 @@ Outside of code, I'm drawn to philosophy, music, fashion and visual culture, thi
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,react,tailwind,php,c,arduino,mysql,postgres,figma"/>
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,tailwind,php,c,arduino,docker,cloudflare,mysql,postgres,figma"/>
   </a>
 </p>
 
